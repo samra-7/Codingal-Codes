@@ -27,4 +27,4 @@ else:
 
 # Calculate and Display the total electricity bill
 # total amount = amount + surcharge
-total = amount + surcharge
+total = amount + surchargegit
